@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class gamefield {
+public class GameField {
+    public char[][] field;
 }
